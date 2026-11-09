@@ -1,3 +1,6 @@
 node_modules/
 deno.lock
 deno.json
+test_dir/
+package-lock.json
+dist/
